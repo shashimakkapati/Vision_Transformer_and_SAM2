@@ -1,1 +1,0 @@
-# Vision_Transformer_and_SAM2
